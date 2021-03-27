@@ -158,28 +158,26 @@
 							"kind":"Внешний"
 					}
 			],
-	"obligations":
+	"obligation":
 			{
-				"299":{
-					"name": "Выпуск №26223RMFS",
-					"fulllname": "МинФин РФ, облигации федерального займа с постоянным купонным доходом, документарные именные, выпуск 26223",
-					"emission_state": "в обращении",
-					"registraition_data": "№26223RMFS от 15.02.2018, МинФин",
-					"denomination": "1000 RUB",
-					"сount_emission": "350 000 000",
-					"size_emission": "350 000 000 000 RUB",
-					"circulation_emission": "339 422 797",
-					"period_circulation": "2198",
-					"start_date_placing": "21.02.2018",
-					"end_date_placing": "25.12.2019",
-					"date_repayment": "28.02.2024",
-					"days_before_repayment": "1068",
-					"coupon_period": "2",
-					"current_coupon": "7 (12)",
-					"coupon_date": "01.09.2021",
-					"size_coupon": "6,5",
-					"NKD": "4,27 RUB",
-					"current_cost": "1012.9"
-				}
+				"name": "Выпуск №26223RMFS",
+				"fulllname": "МинФин РФ, облигации федерального займа с постоянным купонным доходом, документарные именные, выпуск 26223",
+				"emission_state": "в обращении",
+				"registraition_data": "№26223RMFS от 15.02.2018, МинФин",
+				"denomination": "1000 RUB",
+				"сount_emission": "350 000 000",
+				"size_emission": "350 000 000 000 RUB",
+				"circulation_emission": "339 422 797",
+				"period_circulation": "2198",
+				"start_date_placing": "21.02.2018",
+				"end_date_placing": "25.12.2019",
+				"date_repayment": "28.02.2024",
+				"days_before_repayment": "1068",
+				"coupon_period": "2",
+				"current_coupon": "7 (12)",
+				"coupon_date": "01.09.2021",
+				"size_coupon": "6,5",
+				"NKD": "4,27 RUB",
+				"current_cost": "1012.9"
 			}
 }
